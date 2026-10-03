@@ -1,0 +1,25 @@
+{
+  "name": "universitytoursystem---copie",
+  "version": "1.0.0",
+  "description": "3D Campus Tour & Navigation System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyetam802/ICTU-3D-Hall-Navigation-System-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyetam802/ICTU-3D-Hall-Navigation-System-/issues"
+  },
+  "homepage": "https://github.com/nyetam802/ICTU-3D-Hall-Navigation-System-#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
